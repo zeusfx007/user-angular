@@ -10,7 +10,6 @@ Before you get started, ensure you have the following tools and dependencies ins
   ```bash
   npm install -g @angular/cli
 
-- Getting Started
 - Clone the Repository:
 
 - Install Dependencies:
