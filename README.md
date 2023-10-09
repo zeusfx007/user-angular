@@ -17,6 +17,8 @@ Before you get started, ensure you have the following tools and dependencies ins
   cd Angular-project
   npm install
 
+- Update env according to host port
+
 - Start the Server:
    ```bash
    npm run start or ng serve
